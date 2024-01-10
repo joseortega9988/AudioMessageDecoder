@@ -2,7 +2,7 @@
  Script that extract and read messages embedded in audio files 
 
 #### Important information 
-**You need thinkdsp,.py installed in the directory for this files to work**
+**You need thinkdsp.py installed in the directory for this files to work**
 
 ### To run the program, just upload the code in any enviormente jupter notebooks can run 
 
